@@ -56,7 +56,7 @@ To generate the root filesystem, I employed BusyBox, incorporating essential bin
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/Raspberry_Pi_4_Custom.git
+   git clone https://github.com/t0ti20/Raspberry_Pi_4_Custom
    ```
 
 2. Follow the steps outlined in the repository's structure to copy the contents of the boot and rootfs directories to the respective partitions of your Raspberry Pi's SD card.
